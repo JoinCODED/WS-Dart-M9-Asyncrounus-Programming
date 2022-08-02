@@ -1,5 +1,3 @@
-Asynchronous Programming is important in many operations.
+Asynchronous Programming is important in many operations, such as fetching data from a network, writing to a database, reading from system files, etc.
 
-Such as fetching data from network, writing to a database, reading from system files etc...
-
-In dart, we will use `Future`s `async` and `await` to perform asynchronous operations.
+In Dart, we will use `Future`s, `async`, and `await` to perform asynchronous operations.
